@@ -1,0 +1,41 @@
+*{
+  text-align: center;
+}
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .btn-group :first-child {
+    background-color: black;
+    color: white;
+  }
+  
+  .btn-group :last-child { 
+    background-color: grey;
+    color : white ;
+  }
+
+.vert {
+    color:green;
+}
+
+.rouge {
+    color:red;  
+}
+
+.border {
+  margin: 10px 400px 0px 400px;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  background-color: black;
+  color: rgb(212, 206, 206);
+}
+
+.container {
+  background-color: black;
+  padding: 20px;
+  border-radius: 10px;
+}
